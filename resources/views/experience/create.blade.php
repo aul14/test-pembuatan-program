@@ -161,7 +161,7 @@
                                                     <div class="col-md-3">
                                                         <div class="form-group">
                                                             <label>Keterangan </label>
-                                                            <input type="number" autocomplete="off" class="form-control"
+                                                            <input type="text" autocomplete="off" class="form-control"
                                                                 name="keterangan[]">
                                                         </div>
                                                     </div>

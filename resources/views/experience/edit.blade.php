@@ -245,7 +245,7 @@
                                                             <div class="col-md-3">
                                                                 <div class="form-group">
                                                                     <label>Keterangan </label>
-                                                                    <input type="number" autocomplete="off"
+                                                                    <input type="text" autocomplete="off"
                                                                         class="form-control" name="keterangan[]"
                                                                         value="{{ $item->keterangan }}">
                                                                 </div>
@@ -308,7 +308,7 @@
                                                         <div class="col-md-3">
                                                             <div class="form-group">
                                                                 <label>Keterangan </label>
-                                                                <input type="number" autocomplete="off"
+                                                                <input type="text" autocomplete="off"
                                                                     class="form-control" name="keterangan[]">
                                                             </div>
                                                         </div>
